@@ -42,7 +42,7 @@ class Dec2Hex {
                 return false;
             }
         }else{
-            errorMessage = "And Input must be given to convert";
+            errorMessage = "An input must be given to convert";
             return false;
         }
     }
