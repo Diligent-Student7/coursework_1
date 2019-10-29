@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConverterTester" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-29T14:40:12" hostname="DESKTOP-VKDKDHO" time="0.012">
+  <properties/>
+  <testcase name="test()" classname="ConverterTester" time="0.012"/>
+  <system-out><![CDATA[Converting the Decimal Value 45 to Hex...
+Hexadecimal representation is : 2D
+Converting the Decimal Value 525600 to Hex...
+Hexadecimal representation is : 80520
+Converting the Decimal Value 7563 to Hex...
+Hexadecimal representation is : 1D8B
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
