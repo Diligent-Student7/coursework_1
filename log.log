@@ -1,0 +1,13 @@
+* 3c6da61 : Correcting path for testing
+* fd7427c : Typo
+* eb71d70 : Added test complete message.
+* 65242ea : Fixed bug with arg holding values.
+* 8e23b9e : Added a test to test validator
+* ee95a4b : Refactored converter to check input.
+* 54192c1 : Update sonar-server.properties
+* 3ee89c5 : Small edit to property file
+* bdd2f6a : Modified property file
+* 6665df0 : Added SonarQube property file
+* f25ed73 : Changed project to Gradle, added JUnit tests.
+* 56d94c1 : Delete Old file
+* 6735586 : Add Coursework File
